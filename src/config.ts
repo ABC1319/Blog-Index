@@ -41,7 +41,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "EsunR Blog",
         description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
+        url: "https://esunr.1215420.xyz/",
         icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
       },
     ],
@@ -67,7 +67,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/",
   /**
    * 背景图片地址
    */
